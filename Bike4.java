@@ -10,7 +10,8 @@ class Bike4 extends Vehicle{
    System.out.println(super.speed);
     //will print speed of Vehicle now  
   }  
-  public static void main(String args[]){  
+  public static void main(String args[])
+  {  
    Bike4 b=new Bike4();  
    b.display();  
      
