@@ -1,4 +1,5 @@
-class Vehicle{  
+class Vehicle
+{  
   int speed=50;  
 }  
   
